@@ -14,3 +14,5 @@ This repository contains our research into planets. Our research questions are:
 ---
 Contact us for suggestions on how you can help!
 ---
+
+This is a sample of markdown
